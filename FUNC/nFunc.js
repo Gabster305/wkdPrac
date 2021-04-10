@@ -1,7 +1,7 @@
 //write a function that subtracts two number//
 //Assigning a value outside of the function//
-let value1 = 2
-let value2 = 2
+let value1 = 4 
+let value2 = 7
 //Creating the function and naming it the action to do//
 //Giving the function parameter's. The are not the same name as the value assigned//
 function minusValue(x, y) {
@@ -12,5 +12,5 @@ function minusValue(x, y) {
 } 
 //calling the function
 minusValue(value1, value2)
-// this is a change
+// This can be called anywhere in the code//
 
