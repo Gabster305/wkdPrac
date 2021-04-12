@@ -5,10 +5,11 @@
 // let name = 'Gaby';
 // let lastName = 'Rios';
 
-let name = 'Gaby';// string lieteral
-let age = 30; // Number Literla
-let isApproved = false; // Boolean Literla
-let firsName = undefiled;
+let name = 'Gaby';// string literal
+let age = 30; // Number Literals
+let isApproved = false; // Boolean Literal
+let firsName = undefiled; // When you do not set any value is undefined, but also you can set
+                         // a value to undefined. A name of a variable can be set to undefined.
 let selectedColor = null; // when we want to clear value of a variable use null. null is object. 
 
 
